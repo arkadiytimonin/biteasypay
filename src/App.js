@@ -6,7 +6,7 @@ import { useMediaQuery } from 'react-responsive';
 
 
 function App() {
-
+console.log(process.env.PUBLIC_URL);
   /// Определяем размеры экрана для адаптации
   const isDesktopOrLaptop = useMediaQuery({ query: '(min-width: 1224px)' })  // You are a desktop or laptop
   const isBigScreen = useMediaQuery({ query: '(min-width: 1824px)' })       // You  have a huge screen
