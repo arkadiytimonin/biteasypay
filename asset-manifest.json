@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/biteasypay/static/js/main.e540d218.js",
+    "main.js": "/biteasypay/static/js/main.ef581604.js",
     "service-worker.js": "/biteasypay/service-worker.js",
     "index.html": "/biteasypay/index.html",
-    "main.e540d218.js.map": "/biteasypay/static/js/main.e540d218.js.map"
+    "main.ef581604.js.map": "/biteasypay/static/js/main.ef581604.js.map"
   },
   "entrypoints": [
-    "static/js/main.e540d218.js"
+    "static/js/main.ef581604.js"
   ]
 }
