@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/static/js/main.6e864dfd.js",
-    "service-worker.js": "/service-worker.js",
-    "index.html": "/index.html",
-    "main.6e864dfd.js.map": "/static/js/main.6e864dfd.js.map"
+    "main.js": "/biteasypay/static/js/main.a5b059e9.js",
+    "service-worker.js": "/biteasypay/service-worker.js",
+    "index.html": "/biteasypay/index.html",
+    "main.a5b059e9.js.map": "/biteasypay/static/js/main.a5b059e9.js.map"
   },
   "entrypoints": [
-    "static/js/main.6e864dfd.js"
+    "static/js/main.a5b059e9.js"
   ]
 }
