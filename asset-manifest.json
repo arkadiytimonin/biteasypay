@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.js": "/bieasypay/static/js/main.22cb14d1.js",
-    "service-worker.js": "/bieasypay/service-worker.js",
-    "index.html": "/bieasypay/index.html",
-    "main.22cb14d1.js.map": "/bieasypay/static/js/main.22cb14d1.js.map"
+    "main.js": "/biteasypay/static/js/main.22cb14d1.js",
+    "service-worker.js": "/biteasypay/service-worker.js",
+    "index.html": "/biteasypay/index.html",
+    "main.22cb14d1.js.map": "/biteasypay/static/js/main.22cb14d1.js.map"
   },
   "entrypoints": [
     "static/js/main.22cb14d1.js"
